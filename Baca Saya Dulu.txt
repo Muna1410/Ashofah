@@ -1,0 +1,18 @@
+cara penggunaan Website cuti dan absen
+
+
+Keguaan Global
+
+1. untuk NIP user harus sudah di daftarkan terlebih dahulu di admin
+2. Setelah itu baru kasih NIP yang sudah terdaftar ke User tersebut
+3. Setelah itu user mendaftarkan diri dan memasukan NIP yang diberikan Oleh admin
+4. di menu user terdapat menu Cuti silahkan di isi dengan benar 
+
+Penggunaan Admin
+1. Memasukan data Pegawai
+2. Mengubah Sistem cuti (cuti hamil, Libur, dll)
+3. membuat Membarikan pengumuman
+
+Penggunaan User
+1. Bisa Cuti
+2. bisa melihat pengumunan
